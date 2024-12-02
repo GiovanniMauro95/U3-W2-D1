@@ -18,7 +18,7 @@ class CommentArea extends Component {
           this.props.asin,
         {
           headers: {
-            Authorization: 'Bearer inserisci-qui-il-tuo-token',
+            Authorization: "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzRkY2QzMGM5MjI4ZDAwMTVmYWQzNDkiLCJpYXQiOjE3MzMxNTIwNDgsImV4cCI6MTczNDM2MTY0OH0.E1HxGyTDNZXuSMexlr2tttgo-8xdF59-UWIb8HlaFcQ",
           },
         }
       )
